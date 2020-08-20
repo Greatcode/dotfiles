@@ -1,2 +1,3 @@
-# dotfiles
-Dotfiles for my rice
+# Dotfiles for my rice
+
+![my rice](/rice.png)
