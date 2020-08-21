@@ -1,0 +1,10 @@
+{
+    "colorscheme": "simple",
+    "eofnewline": false,
+    "infobar": false,
+    "linter": false,
+    "savecursor": true,
+    "scrollspeed": 4,
+    "statusformatl": "$(filename) $(modified) $(status.paste) $(opt:filetype)",
+    "statusformatr": "($(line),$(col))"
+}
